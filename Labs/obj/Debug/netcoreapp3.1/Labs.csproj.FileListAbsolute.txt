@@ -9,3 +9,14 @@ D:\Лабараторные работы\Прога\1 курс 2 сем\Labs\obj
 D:\Лабараторные работы\Прога\1 курс 2 сем\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfo.cs
 D:\Лабараторные работы\Прога\1 курс 2 сем\Labs\obj\Debug\netcoreapp3.1\Labs.dll
 D:\Лабараторные работы\Прога\1 курс 2 сем\Labs\obj\Debug\netcoreapp3.1\Labs.pdb
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\bin\Debug\netcoreapp3.1\Labs.exe
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\bin\Debug\netcoreapp3.1\Labs.deps.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\bin\Debug\netcoreapp3.1\Labs.runtimeconfig.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\bin\Debug\netcoreapp3.1\Labs.runtimeconfig.dev.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\bin\Debug\netcoreapp3.1\Labs.dll
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\bin\Debug\netcoreapp3.1\Labs.pdb
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\obj\Debug\netcoreapp3.1\Labs.csprojAssemblyReference.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfoInputs.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfo.cs
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\obj\Debug\netcoreapp3.1\Labs.dll
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Labs\obj\Debug\netcoreapp3.1\Labs.pdb

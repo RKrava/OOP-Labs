@@ -5,12 +5,13 @@ namespace Labs
     {
         static void Main(string[] args)
         {
-            int x = 7;
+            int x = 14;
             Handler.Increment(ref x);
-            Console.WriteLine(x);
+            //Console.WriteLine(x);
 
-            int a = 11, b = 11;
-            Console.WriteLine(Handler.Comparison(a, b));
+            int a = 13, b = 12;
+            Handler.Comparison(a, b);
+            //Console.WriteLine(Handler.Comparison(a, b));
         }
     }
     

@@ -24,7 +24,20 @@ void Increment(int &x){
 }
 
 bool Comparison(int a, int b){
-	return (a ^ b) == 0 ? true : false;
+	int m = 1, i = 0;
+        while ((a & m) == (b & m) && i < 32)
+           {
+            a &= ~m;
+            b &= ~m;
+            m <<= 1;
+            if(a == 0)
+           {
+                if (b == 0) return true;
+                else return false;
+           }
+           i++;
+    	}
+    return false;
 }
 
 

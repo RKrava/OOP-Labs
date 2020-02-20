@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace Labs
 {
-    public class Handler
+    public static class Handler
     {
         public static void Increment(ref int x)
         {
@@ -19,7 +20,12 @@ namespace Labs
 
         public static bool Comparison(int a, int b)
         {
-            return (a ^ b) == 0 ? true : false;
+            for (int i = Marshal.SizeOf(a) * 8; i >= 0; i++)
+            {
+                if (Convert.ToBoolean((a ^ 1 << i) ^ (b ^ 1 << i)))
+                    return false;
+            }
+            return true;
         }
     }
 }

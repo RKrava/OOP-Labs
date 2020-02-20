@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\Labs\\Labs.csproj": {}
+    "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\Labs.csproj": {}
   },
   "projects": {
-    "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\Labs\\Labs.csproj": {
+    "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\Labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\Labs\\Labs.csproj",
+        "projectUniqueName": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\Labs.csproj",
         "projectName": "Labs",
-        "projectPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\Labs\\Labs.csproj",
+        "projectPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\Labs.csproj",
         "packagesPath": "C:\\Users\\krab9\\.nuget\\packages\\",
-        "outputPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\Labs\\obj\\",
+        "outputPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
