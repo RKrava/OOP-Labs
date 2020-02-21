@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\Lab 1.csproj",
-      "projectName": "Lab 1",
-      "projectPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\Lab 1.csproj",
+      "projectUniqueName": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Lab 2\\Lab 2.csproj",
+      "projectName": "Lab 2",
+      "projectPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Lab 2\\Lab 2.csproj",
       "packagesPath": "C:\\Users\\krab9\\.nuget\\packages\\",
-      "outputPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Labs\\obj\\",
+      "outputPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\Lab 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
