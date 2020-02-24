@@ -10,10 +10,12 @@ namespace Lab_2
             var str1 = new MyString("adafaf");
             var str2 = new MyString("123123");
             var str3 = new MyString("!#!$$");
+            var str4 = new MyString("asdasfdfwfwew123");
             Text text = new Text();
             text.AddString(str1);
             text.AddString(str2);
             text.AddString(str3);
+            text.AddString(str4);
             //text.RemoveString(1);
             //text.Erase();
             Console.WriteLine(text.MaxString().ToChar);

@@ -7,7 +7,6 @@ namespace Lab_2
     class Text
     {
         int size;
-        int numbersymbols;
         MyString[] myStrings;
 
         public int Size
@@ -30,7 +29,7 @@ namespace Lab_2
         {
             if (delIndex > size)
             {
-
+                throw new IndexOutOfRangeException();
             }
             var newData = new MyString[myStrings.Length - 1];
             for (int i = 0; i < delIndex; i++)
