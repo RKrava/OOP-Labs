@@ -16,11 +16,11 @@ namespace Lab_2
             text.AddString(str2);
             text.AddString(str3);
             text.AddString(str4);
-            //text.RemoveString(1);
-            //text.Erase();
-            Console.WriteLine(text.MaxString().ToChar);
-            Console.WriteLine(text.PercentDigit());
-            Console.WriteLine(text.Allsymbols());
+            text.MaxString();
+            text.PercentDigit();
+            text.Allsymbols();
+            text.Erase();
+            text.RemoveString(1);
         }
     }
 }

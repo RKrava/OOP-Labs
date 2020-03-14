@@ -16,10 +16,6 @@ namespace Lab_2
                 return size;
             }
         }
-        public Text()
-        {
-            size = 0;
-        }
         public void AddString(MyString str)
         {
             Array.Resize(ref myStrings, ++size);

@@ -15,10 +15,6 @@ namespace Lab_2
                 return mystring;
             }
         }
-        public MyString(char[] ch)
-        {
-            mystring = ch;
-        }
         public MyString(string str)
         {
             mystring = str.ToCharArray();
