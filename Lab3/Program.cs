@@ -6,16 +6,15 @@ namespace Lab3
     {
         static void Main(string[] args)
         {
-            char[][] arr = new char[][] //jaggedarray зубчатый масив економит память 
+            int[][] arr = new int[][] //jaggedarray зубчатый масив економит память 
             {
-                     new char[] {'a','b','c','d'},
-                     new char[] {'e','f','g','h'},
+                     new int[] {1,2,3,4},
+                     new int[] {5,6,7,8},
             };
-
             var matrix1 = new Matrix();
             matrix1.MyArr = arr;
             Console.WriteLine(matrix1[1]);
-            Console.WriteLine(matrix1.Consonants);
+            Console.WriteLine(matrix1.Sum);
         }
     }
 }

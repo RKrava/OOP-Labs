@@ -6,9 +6,23 @@ namespace Lab3
 {
     class Matrix
     {
-        private char[][] myArr;
-        private int consonants;
-        public char[][] MyArr
+        int[][] myArr;
+        int sum;
+
+        public Matrix()
+        {
+        }
+        public void CountSum()
+        {
+            for (int i = 0; i < myArr.Length; i++)
+            {
+                for (int j = 0; j < myArr[i].Length; j++)
+                {
+                    sum += myArr[i][j];
+                }
+            }
+        }
+        public int[][] MyArr
         {
             get
             {
@@ -19,36 +33,26 @@ namespace Lab3
                 myArr = value;
             }
         }
-        public char[] this[int index]
+        public int this[int index]
         {
             get
             {
-                return myArr[index-1];
-            }
-        }
-        public int Consonants
-        {
-            get
-            {
-                consonants = ConsonantsCount();
-                return consonants;
-            }
-        }
-        int ConsonantsCount()
-        {
-            int number = 0;
-            char[] vowels = { 'a', 'e', 'i', 'u', 'o', 'y'};
-            Dictionary<char, int> dict = new Dictionary<char, int>(vowels.Length);
-            foreach (char ch in vowels)
-                dict.Add(ch, 0);
-            for (int i = 0; i < myArr.GetLength(0); i++) {
-                foreach (char ch in myArr[i])
+                int avg = 0;
+                for(int i = 0; i < myArr[index].Length; i++)
                 {
-                    if (!dict.ContainsKey(ch))
-                        number++;
+                    avg += myArr[index][i];
                 }
+                avg /= myArr[index].Length;
+                return avg;
             }
-            return number;
+        }
+        public int Sum
+        {
+            get
+            {
+                CountSum();
+                return sum;
+            }
         }
     }
 }

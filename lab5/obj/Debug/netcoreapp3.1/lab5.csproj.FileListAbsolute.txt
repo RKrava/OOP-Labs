@@ -1,0 +1,11 @@
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
