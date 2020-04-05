@@ -7,7 +7,7 @@ namespace Lab4
         static void Main(string[] args)
         {
             var c1 = new Strings();
-            var c2 = new Strings("324215");
+            var c2 = new Strings("324521");
             var c3 = new Strings(c2);
 
             c2 = c2 - '5';
