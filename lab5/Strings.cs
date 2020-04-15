@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace lab5
+﻿namespace lab5
 {
     class Strings
     {
-        string str;
+        string _str;
         public Strings(string s)
         {
-            str = s;
+            _str = s;
         }
         public int GetLength()
         {
-            return str.Length;
+            return _str.Length;
         }
     }
 }

@@ -1,25 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Linq;
 
 namespace lab5
 {
     class LetterStrings : Strings
     {
-        string str;
+        string _str;
         public LetterStrings(string s) : base(s)
         {
-            str = s;
+            _str = s;
         }
         public void Sort()
         {
-            str = string.Concat(str.OrderBy(x => x).ToArray()); // лямбда выражение
+            _str = string.Concat(_str.OrderBy(x => x).ToArray()); // лямбда выражение
         }
         public string GetStr()
         {
-            return str;
+            return _str;
         }
     }
 }
