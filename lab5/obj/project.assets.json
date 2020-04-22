@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\krab9\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Рома Кравченко\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -17,14 +16,11 @@
       "projectUniqueName": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\lab5\\lab5.csproj",
       "projectName": "lab5",
       "projectPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\lab5\\lab5.csproj",
-      "packagesPath": "C:\\Users\\krab9\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Рома Кравченко\\.nuget\\packages\\",
       "outputPath": "D:\\Лабараторные работы\\Прога\\1 курс 2 сем\\OOP-Labs\\lab5\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\krab9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Рома Кравченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
