@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lab6
 {
@@ -6,8 +7,13 @@ namespace Lab6
     {
         static void Main(string[] args)
         {
-            var expression = new Expression(1,2,-1);
-            Console.WriteLine(expression.GetAnswer());
+            var expressions = new List<Expression>();
+            expressions.Add(new Expression(1, 2, -1));
+            expressions.Add(new Expression(0, -2, 3));
+            foreach(var item in expressions)
+            {
+                Console.WriteLine(item.GetAnswer());
+            }
         }
     }
 }

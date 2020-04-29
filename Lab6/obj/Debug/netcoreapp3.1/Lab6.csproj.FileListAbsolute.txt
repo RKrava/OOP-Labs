@@ -10,3 +10,4 @@ D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs
 D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
 D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
 D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache

@@ -49,20 +49,20 @@ namespace Lab6
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Divide by Zero!");
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("Divide by Zero! Info: " + ex.Message);
+                Environment.Exit(0);
                 return 0;
             }
             catch (ArithmeticException ex)
             {
-                Console.WriteLine("Negative square root!");
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("Negative square root! Info: " + ex.Message);
+                Environment.Exit(1);
                 return 0;
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error");
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("Error! Info: " + ex.Message);
+                Environment.Exit(2);
                 return 0;
             }
         }
