@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+using System.IO;
 namespace Lab6
 {
     class Expression
@@ -49,19 +49,28 @@ namespace Lab6
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Divide by Zero! Info: " + ex.Message);
+                using (TextWriter tw = new StreamWriter("logs.txt", true))
+                {
+                    tw.WriteLine("Divide by Zero! Info: " + ex.Message);
+                }
                 Environment.Exit(0);
                 return 0;
             }
             catch (ArithmeticException ex)
             {
-                Console.WriteLine("Negative square root! Info: " + ex.Message);
+                using (TextWriter tw = new StreamWriter("logs.txt", true))
+                {
+                    tw.WriteLine("Negative square root! Info: " + ex.Message);
+                }
                 Environment.Exit(1);
                 return 0;
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error! Info: " + ex.Message);
+                using (TextWriter tw = new StreamWriter("logs.txt", true))
+                {
+                    tw.WriteLine("Error! Info: " + ex.Message);
+                }
                 Environment.Exit(2);
                 return 0;
             }

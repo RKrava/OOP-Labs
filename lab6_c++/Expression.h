@@ -2,9 +2,14 @@
 #include <iostream>
 #include <string>
 #include <conio.h>
+#include <fstream>
+
+ofstream fout("logs.txt");
+
 using namespace std;
 class Expression
 {
+
     double _a, _c, _d;
 public:
     Expression(double a, double c, double d)
@@ -48,7 +53,7 @@ public:
         }
         catch (const char* ex)
         {
-            cout << "ERROR: " << ex << endl;
+            fout << "ERROR: " << ex << endl;
             _getch();
             exit(1);
             return 0;

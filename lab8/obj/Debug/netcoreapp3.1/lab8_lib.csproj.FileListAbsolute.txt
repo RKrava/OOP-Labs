@@ -1,0 +1,9 @@
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\bin\Debug\netcoreapp3.1\lab8_lib.deps.json
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\bin\Debug\netcoreapp3.1\lab8_lib.dll
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\bin\Debug\netcoreapp3.1\lab8_lib.pdb
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\obj\Debug\netcoreapp3.1\lab8_lib.csprojAssemblyReference.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\obj\Debug\netcoreapp3.1\lab8_lib.csproj.CoreCompileInputs.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\obj\Debug\netcoreapp3.1\lab8_lib.AssemblyInfoInputs.cache
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\obj\Debug\netcoreapp3.1\lab8_lib.AssemblyInfo.cs
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\obj\Debug\netcoreapp3.1\lab8_lib.dll
+D:\Лабараторные работы\Прога\1 курс 2 сем\OOP-Labs\lab8\obj\Debug\netcoreapp3.1\lab8_lib.pdb
